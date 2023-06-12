@@ -16,7 +16,7 @@ console.log(textData);
  * Output: Error Message
  */
 try {
-  await fetch("https://raw.githubusercontent.com/awayinlondon/TypeScriptTest/main/fetch.ts");
+  await fetch("https://raw.githubusercontent.com/awayinlondon/TypeScriptTest/07359c458fc2b8396079fb52811b2c3cf6445ae7/fetch.ts");
 } catch (error) {
   console.log(error);
 }
